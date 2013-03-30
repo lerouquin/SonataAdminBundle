@@ -17,19 +17,19 @@
         }
     ],
     "require": {
-        "symfony/http-foundation": "2.1.*",
-        "symfony/form": "2.1.*",
-        "symfony/validator": "2.1.*",
-        "symfony/security-bundle": "2.1.*",
-        "symfony/routing": "2.1.*",
-        "symfony/config": "2.1.*",
-        "symfony/console": "2.1.*",
-        "symfony/twig-bridge": "2.1.*",
+        "symfony/http-foundation": "2.2.*",
+        "symfony/form": "2.2.*",
+        "symfony/validator": "2.2.*",
+        "symfony/security-bundle": "2.2.*",
+        "symfony/routing": "2.2.*",
+        "symfony/config": "2.2.*",
+        "symfony/console": "2.2.*",
+        "symfony/twig-bridge": "2.2.*",
         "twig/twig": ">=1.10,<2.0-dev",
         "knplabs/knp-menu-bundle": ">=1.1.0,<2.0.x-dev",
         "sonata-project/jquery-bundle": "1.8.*",
         "sonata-project/exporter": "1.*",
-        "sonata-project/block-bundle": "2.1.*",
+        "sonata-project/block-bundle": "2.2.*",
         "doctrine/common": ">=2.2,<3.0"
     },
     "require-dev": {
